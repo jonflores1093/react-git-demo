@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Reatt Git Demo</h1>
+        <h1>React Git Demo</h1>
         <p>Working on learning Git + React.</p>
         <a
           className="App-link"
